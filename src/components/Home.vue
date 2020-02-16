@@ -1,6 +1,7 @@
 <template>
     <div id="home">
         <h1>Ini adalah Home</h1>
+        <h2>Aku udah ada buat perubahan loh</h2>
     </div>
 </template>
 
